@@ -12,20 +12,9 @@
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 </div>
 
-<h2>📝Notion</h2>
-<div>
-
-</div>
-
-<h2>✉️Contact</h2>
-<div>
-
-</div>
-
 <h2>⚒️Algorithm</h2>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gegeo)](https://solved.ac/gegeo)
-
 
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
