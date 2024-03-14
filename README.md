@@ -1,7 +1,6 @@
 # JANG JEONG HWAN
 
-<div width="38%">
-<h2>📚Studying</h2>
+📚Studying
 <div>
 <a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
@@ -18,7 +17,6 @@
 <h2>✉️Contact</h2>
 <div>
 <a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
-</div>
 </div>
 
 <h2>⚒️Algorithm</h2>
