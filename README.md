@@ -1,6 +1,6 @@
 # JANG JEONG HWAN
 
-📚Studying
+# 📚Studying
 <div>
 <a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
