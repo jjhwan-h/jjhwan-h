@@ -30,7 +30,7 @@ Notion
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjhwan-h&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-
+<p align="center">
 <a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
 </p>
 
