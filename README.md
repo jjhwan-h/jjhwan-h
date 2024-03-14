@@ -1,6 +1,6 @@
 # JANG JEONG HWAN
 
-# 📚Studying
+<h2>📚Studying</h2>
 <div>
 <a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
@@ -11,17 +11,17 @@
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 </div>
 
-# 📝Notion
+<h2>📝Notion</h2>
 <div>
 <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
-# ✉️Contact
+<h2>✉️Contact</h2>
 <div>
 <a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
 </div>
 
-# ⚒️Algorithm
+<h2>⚒️Algorithm</h2>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gegeo)](https://solved.ac/gegeo)
 
