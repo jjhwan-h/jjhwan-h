@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhwan-h)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhwan-h)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhwan-h&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=js&logoColor=yellow"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
