@@ -7,7 +7,7 @@
 <a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=ts&logoColor=blue"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={gegeo})](https://solved.ac/{gegeo})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gegeo)](https://solved.ac/gegeo)
 
 <!--
 **jjhwan-h/jjhwan-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
