@@ -31,6 +31,8 @@ Notion
 </a>
 
 
+<a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
+</p>
 
 <!--
 **jjhwan-h/jjhwan-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
