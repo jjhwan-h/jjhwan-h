@@ -1,3 +1,17 @@
+
+
+📚Studying
+<a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=js&logoColor=yellow"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
+<a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=ts&logoColor=blue"/></a>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=c++&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=c++&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=c++&logoColor=blue"/></a>
+
+🗒️Notion
+<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhwan-h&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
@@ -8,14 +22,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjhwan-h&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=js&logoColor=yellow"/></a>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
-<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=ts&logoColor=blue"/></a>
-<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=c++&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=c++&logoColor=white"/></a>
-
+⚒️Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gegeo)](https://solved.ac/gegeo)
 
 <!--
