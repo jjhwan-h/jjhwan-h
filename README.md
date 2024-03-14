@@ -1,4 +1,4 @@
-# JANG JEONG HWAN
+# JANG JEONG HWAN <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <h2>📚Studying</h2>
 <div>
@@ -13,7 +13,7 @@
 
 <h2>📝Notion</h2>
 <div>
-<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 </div>
 
 <h2>✉️Contact</h2>
