@@ -1,9 +1,7 @@
-<p align="rightr">
-<a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
-</p>
 
-📚Studying
-<br>
+
+<h3>📚Studying</h3>
+<div>
 <a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
@@ -11,15 +9,19 @@
 <a><img src="https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=RockyLinux&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<br>
+</div>
 
-Notion
-<br>
+<h3><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>Notion</h3>
+<div>
 <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<br>
+</div>
 
-⚒️Algorithm
-<br>
+<h3>✉️Contact</h3>
+<div>
+<a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
+</div>
+
+<h3>⚒️Algorithm</h3>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gegeo)](https://solved.ac/gegeo)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
