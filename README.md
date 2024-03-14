@@ -4,11 +4,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhwan-h)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a><img src="https://img.shields.io/badge/js-#F7DF1E?style=flat-square&logo=js&logoColor=yellow"/></a>
-<a><img src="https://img.shields.io/badge/node.js-#339933?style=flat-square&logo=node.js&logoColor=green"/></a>
-<a href=""><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/ts-#3178C6?style=flat-square&logo=ts&logoColor=blue"/></a>
-<a><img src="https://img.shields.io/badge/c++-#00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/js-#7DF1E?style=flat-square&logo=js&logoColor=yellow"/></a>
+<a><img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
+<a href=""><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/ts-3178C6?style=flat-square&logo=ts&logoColor=blue"/></a>
+<a><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
 
 
 
