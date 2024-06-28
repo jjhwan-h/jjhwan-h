@@ -1,19 +1,6 @@
 <h1> JANG JEONG HWAN <a href="mailto:jjhwan.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjhwan.h@gmail.com"/></a>
 <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> </h1>
 
-<h2>📚Studying</h2>
-<div>
-<a><img src="https://img.shields.io/badge/Javascript-7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=RockyLinux&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-</div>
-
 <h2>⚒️Algorithm</h2>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gegeo)](https://solved.ac/gegeo)
